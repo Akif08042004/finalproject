@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #000;
+  }
+  
+  main {
+    padding: 40px 60px;
+  }
+  
+  .about-header {
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .story-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    margin-bottom: 60px;
+  }
+  
+  .story-text {
+    flex: 1;
+    max-width: 500px;
+  }
+  
+  .story-text h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .story-text p {
+    margin-bottom: 10px;
+    line-height: 1.6;
+  }
+  
+  .story-image {
+    flex: 1;
+    max-width: 400px;
+    padding-left: 20px;
+  }
+  
+  .story-image img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .team-section {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .team-member {
+    flex: 1;
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  .team-member img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .team-member h3 {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  
+  .team-member p {
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .socials {
+    margin-top: 8px;
+    font-size: 18px;
+  }
+  
+  .socials span {
+    margin: 0 5px;
+    cursor: pointer;
+  }
+  

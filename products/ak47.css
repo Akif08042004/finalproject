@@ -151,3 +151,11 @@ body {
     margin-top: 10px;
     width: 100px;
   }
+.item{
+  margin: 67px;
+  padding: 15px;
+}
+.images{
+  width: 100px;
+  height: 150px;
+}
